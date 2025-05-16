@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Instance folder (Flask specific, if you use it)
+instance/
+
+# Other
+.DS_Store
